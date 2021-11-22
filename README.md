@@ -1,8 +1,14 @@
 # OBJECTS-RECOGNITION-FROM-SATELLITE-IMAGE
+
+This implemantation is based on official Mask-rcnn Algorithm.
+It is Mask-rcnn based SATELLITE-IMAGE-OBJECTS-RECOGNITION model using Flask framework.
+Model is trained on 1200 images of classes Forest, River and Building and each class containing around 400 images.
+ 
+ 
  to run
  
  $ pip install -r requirements.txt
 
-Dataset
+Dataset:- UC Merced Land Use Dataset
 
 http://weegee.vision.ucmerced.edu/datasets/landuse.html
